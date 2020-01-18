@@ -1,0 +1,11 @@
+#search {
+    margin: 40px;
+    background-color: white;
+    border: black;
+    border-style: solid;
+}
+
+#button {
+    margin: 10px;
+    float: right;
+}
