@@ -4,7 +4,9 @@ import Header from './components/Header';
 import Search from './components/Search';
 
 class App extends Component {
-
+state = {
+  value: []
+}
 render () {
   return (
     <div>
